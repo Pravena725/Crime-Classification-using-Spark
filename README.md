@@ -24,6 +24,9 @@ chmod +x client.sh
 # Team BD2_076_329_418_448
 
 **B Pravena** - PES2UG19CS076
+
 **Rishi Patel** - PES2UG19CS329
+
 **Swarnamalya A S** - PES2UG19CS418
+
 **Varna Satyanarayana** - PES2UG19CS448
