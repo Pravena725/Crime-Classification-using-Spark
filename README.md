@@ -6,11 +6,13 @@ Classifying of crime using Machine Learning with Spark MLlib.
 - The label or category is the second feature
 - 878k records in train and test dataset
 
-**ML algorithms used** - SGD (Stochastic Gradient Descent), kNN, k-Means Clusteing, MLP (Multi-Layer Perceptron), MNB (Multinomial Naïve Bayes),etc.  
+**ML algorithms used** - SGD (Stochastic Gradient Descent), kNN (k Nearest Neighbours), k-Means Clusteing, MLP (Multi-Layer Perceptron), MNB (Multinomial Naïve Bayes), etc.  
 
 **Server side command** -:
 
 python stream.py --file crime --batch-size 30000
+
+
 
 **Client side command** -:
 
